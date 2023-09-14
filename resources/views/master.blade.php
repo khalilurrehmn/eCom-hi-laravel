@@ -51,6 +51,12 @@ img.slider-img{
 .search-box{
     width: 500px !important;
 }
+.cart_list_divider{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+
+}
 </style>
 
 </body>

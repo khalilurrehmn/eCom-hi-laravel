@@ -7,7 +7,7 @@
     </div>
     <div class="col-sm-4">
         <div class="trending-wrapper">
-        <h4>Result for products</h4>
+        <h1>Result for products</h1>
       <div class="">
 
         @foreach ( $products as $item)
